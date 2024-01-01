@@ -66,7 +66,7 @@
       <div class="phone">
         <div class="phone-icon"><i class="pi pi-phone"></i></div>
         <div class="phone-info">
-          <div class="phoneNuber">069 265 958</div>
+          <div class="phoneNuber">+14844731006</div>
           <div class="phoneDetail">24/7 Support Center</div>
         </div>
       </div>
